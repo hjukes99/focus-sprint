@@ -8,3 +8,4 @@
 - Updated test script to target `tests/smoke-test.ts` explicitly.
 - Switched smoke test to Node built-in test runner for deterministic local execution.
 - `npm test` now passes.
+- Added `.gitignore` and removed accidentally committed `node_modules` from git tracking.
